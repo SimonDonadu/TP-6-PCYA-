@@ -162,7 +162,6 @@ def setup_parking():
     return parking
 
 # ----------------------------------
-# CLI interactivo sin detección Jupyter
 # ----------------------------------
 def main():
     parking = setup_parking()
