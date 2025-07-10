@@ -2,10 +2,6 @@ import sys
 from datetime import datetime, timedelta, date, time
 
 # ----------------------------------
-# Eódio: Canvas always uses CLI mode
-# ----------------------------------
-
-# ----------------------------------
 # Estructuras de Datos
 # ----------------------------------
 class Cliente:
